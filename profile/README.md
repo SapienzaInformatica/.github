@@ -2,13 +2,10 @@
 
 ---
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Chi siamo</b></td>
-    <td><b style="font-size:30px">Who are we</b></td>
- </tr>
- <tr>
-    <td>LI</td>
-    <td>LI</td>
- </tr>
-</table>
+## Chi siamo? / Who are we?
+
+`IT`
+> Siamo un'organizzazione fatta da studenti dell'università [La Sapienza](https://www.uniroma1.it)
+
+`EN`
+> We are an organization made by students of the university [La Sapienza](https://www.uniroma1.it)
